@@ -1,0 +1,1 @@
+This is a python code that uses the airbnb_data.csv file as its data source .It then calculates probability of various events highlighting the various principles of probabilities and its calculations through python.
